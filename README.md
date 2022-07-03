@@ -25,7 +25,7 @@ Nesta etapa também foi realizada a tradução dos dados para o Português.
 
 O resultado final foi exportado para um [arquivo CSV](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2001/dados%20limpos.csv).
 
-Todas as atividades executadas estão documentadas no notebook.
+Todas as atividades executadas estão documentadas neste [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2001/Limpeza%20de%20dados.ipynb).
 
 ---
 
@@ -33,9 +33,9 @@ Todas as atividades executadas estão documentadas no notebook.
 
 A segunda semana foi dedicado a exploração dos dados por meio de análises visuais e descrição das conclusões/hipóteses geradas pelos gráficos e outras análises. A variável target do projeto é o churn rate (taxa de evasão). 
 
-Nessa semana também foi possível aprender na prática como utilizar a biblioteca Plotly para criar gráficos interativos.
+Nessa semana também foi possível aprender na prática como utilizar a biblioteca Plotly para criar gráficos.
 
-Todas as atividades executadas estão documentadas no notebook.
+Todas as atividades executadas estão documentadas neste [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2002/Explorando%20os%20dados.ipynb).
 
 ---
 
