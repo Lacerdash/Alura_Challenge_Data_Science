@@ -15,6 +15,16 @@ O objetivo desse Challenge é aprofundar os conhecimentos dos alunos na área de
 
 **Entrega:** Ao final de cada semana, será entregue um Notebook Python, desenvolvido no VSCODE, com  o código e análises efetuados para a resolução das atividades solicitadas pela empresa. Adicionalmente, poderão ser disponibilizados  arquivos CSV com resultados obtidos, bem como imagens de gráficos gerados. Tanto os Notebooks quanto os arquivos adicionais ficarão disponíveis no [Repositório criado para o projeto no GitHub](https://github.com/Lacerdash/Alura_Challenge_Data_Science).
 
+**Linguagem:** Python foi a linguagem utilizada no desenvolvimento, utilizando Jupyer Notebooks para apresentar os resultados. Os principais pacotes utilizados foram:
+
+**Bibliotecas utilizadas:**
+- pandas
+- numpy
+- plotly
+- seaborn
+- scikit-learn
+- imbalanced-learn
+
 ---
 
 ## Semana 1
