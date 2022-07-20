@@ -55,7 +55,7 @@ Na terceira semana, entrei na área de Machine Learning, avaliando e aplicando o
 
 Essa foi a etapa de conclusão do projeto onde pude validar as hipóteses e sugerir ações para redução da taxa de evasão de clientes.
 
-Todas as atividades executadas estão documentadas no notebook.
+Todas as atividades executadas estão documentadas no [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2003/Machine%20Learning.ipynb).
 
 ---
 
