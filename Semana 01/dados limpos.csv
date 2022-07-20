@@ -1,4 +1,4 @@
-ID_cliente,Evasao,Genero,Cidadao_Senior,Parceiro,Dependentes,Tempo_de_contrato,Servico_de_telefone,Linhas_multiplas,Serivo_de_internet,Segurnaca_online,Backup_online,Protecao_dipositivo,Suporte_tecnico,Streaming_TV,Streaming_filmes,Tipo_de_contrato,Fatura_online,Metodo_de_pagamento,Total_servico_dia,Total_servico_mes,Total_gasto
+ID_cliente,Evasao,Genero,Cidadao_Senior,Parceiro,Dependentes,Tempo_de_contrato,Servico_de_telefone,Linhas_multiplas,Servico_de_internet,Segurnaca_online,Backup_online,Protecao_dipositivo,Suporte_tecnico,Streaming_TV,Streaming_filmes,Tipo_de_contrato,Fatura_online,Metodo_de_pagamento,Total_servico_dia,Total_servico_mes,Total_gasto
 0002-ORFBO,Nao,Mulher,Nao,Sim,Sim,9,Sim,Nao,DSL,Nao,Sim,Nao,Sim,Sim,Nao,Anual,Sim,Cheque,2.19,65.6,593.3
 0003-MKNFE,Nao,Homem,Nao,Nao,Nao,9,Sim,Sim,DSL,Nao,Nao,Nao,Nao,Nao,Sim,Mensal,Nao,Cheque,2.0,59.9,542.4
 0004-TLHLJ,Sim,Homem,Nao,Nao,Nao,4,Sim,Nao,Fiber optic,Nao,Nao,Sim,Nao,Nao,Nao,Mensal,Sim,Cheque eletrônico,2.46,73.9,280.85
