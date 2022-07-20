@@ -51,7 +51,7 @@ Todas as atividades executadas estão documentadas neste [notebook](https://gith
 
 ## Semana 3
 
-Na terceira semana, entrei na área de Machine Learning, avaliando e aplicando o balanceamento na variável target, aplicando 3 modelos de Machine Learning, escolhendo e otimizando o melhor modelo.
+Na terceira semana, entrei na área de Machine Learning, avaliando e aplicando o balanceamento na variável target, aplicando 4 modelos de Machine Learning, e 1 dummy classifier. Para depois escolher e otimizar o melhor modelo.
 
 Essa foi a etapa de conclusão do projeto onde pude validar as hipóteses e sugerir ações para redução da taxa de evasão de clientes.
 
