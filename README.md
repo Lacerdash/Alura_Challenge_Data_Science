@@ -1,7 +1,15 @@
 # Alura Data Science Challenge
+
 Neste Repositório está o meu projeto desenvolvido durante a participação no Challenge de Data Scienda promovido pela Alura. A Alura é uma plataforma online brasileira de cursos de tecnologia.
 
 O objetivo desse Challenge é aprofundar os conhecimentos dos alunos na área de Data Science, por meio de desafios práticos.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Alura Data Science Challenge**
+| :label: Tecnologias | Python
+| :rocket: URL         | -
+| :fire: Desafio     | https://www.alura.com.br/challenges/data-science?host=https://cursos.alura.com.br
 
 ---
 
@@ -62,3 +70,6 @@ Todas as atividades executadas estão documentadas no [notebook](https://github.
 ## Badge de conclusão do Projeto
 
 <a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="200" height="200"/></a>
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://files.tecnoblog.net/wp-content/uploads/2018/06/digital-brain.jpg?raw=true#vitrinedev)
