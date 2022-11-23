@@ -9,7 +9,7 @@ O objetivo desse Challenge é aprofundar os conhecimentos dos alunos na área de
 | :sparkles: Nome        | **Alura Data Science Challenge**
 | :label: Tecnologias | Python
 | :rocket: URL         | -
-| :fire: Desafio     | https://www.alura.com.br/challenges/data-science?host=https://cursos.alura.com.br
+| :fire: Desafio     | https://www.alura.com.br/challenges/data-science/
 
 ---
 
